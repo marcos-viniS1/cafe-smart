@@ -1,4 +1,4 @@
-package com.cafesmart.cafesmart;
+package com.cafesmart;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
